@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 class calcAle {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         int resultado;
         int opcion;
