@@ -6,6 +6,7 @@ class Calc2Ale {
         Scanner sc = new Scanner(System.in);
         int resultado;
         int opcion;
+        
         do {
             System.out.print("Ingresa el primer operando: ");
             int operando1 = sc.nextInt();
